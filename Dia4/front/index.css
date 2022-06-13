@@ -1,0 +1,11 @@
+body {
+    min-height: 95vh;
+    background-image: url('/front/images/cine.jpg') ;
+}
+input{
+    margin-bottom: 5px;
+}
+
+table{
+    width: 80% !important;
+}
