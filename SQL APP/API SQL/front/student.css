@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    padding: 5px;
+    color: rgba(19, 72, 204, 0.907);
+}
+
+body {
+
+    background-image: url('/front/images/cine.jpg');
+    background-size: cover;
+}
+
+.datos{
+
+    margin: 50px;
+    padding: 50px;
+}
+
+table{
+
+    width: 60% !important;
+}
